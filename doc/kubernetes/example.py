@@ -39,7 +39,7 @@ def main():
         sys.stdout.flush()
 
     print("Success!")
-    sys.stdout.flush()
+    #sys.stdout.flush()
 
 
 if __name__ == "__main__":
